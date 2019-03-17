@@ -2,7 +2,7 @@
 
 This project required to work in a duo. We were asked to build a simplified version of a battery of UnitTests.
 
-We were required to use it to test one of our previous projects. We chose my [libft](https://github.com/abguimba/42-libft)
+We were required to use it to test one of our previous projects. We chose my [libft](https://github.com/abguimba/42-libft).
 
 ![ ](images/image01.png)
 
